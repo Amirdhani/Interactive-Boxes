@@ -6,11 +6,10 @@ Users can select from multiple unit options, view dynamic pricing, and customize
 
 ---
 
-## 🔗 Live Demo
+### 🔗 Live Demo
 
-👉 [Click here to view the live demo:[ https://interactive3boxes.netlify.app/]](https://interactive3boxes.netlify.app/)
-
-> _Deployed using GitHub Pages / Netlify ._
+👉 [Click here to view the live demo]([https://your-app-name.netlify.app](https://interactive3boxes.netlify.app/))  
+> _Deployed using Netlify._
 
 ---
 
