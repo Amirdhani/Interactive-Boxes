@@ -10,7 +10,7 @@ Users can select from multiple unit options, view dynamic pricing, and customize
 
 👉 [Click here to view the live demo: https://interactive3boxes.netlify.app/]
 
-> _Deployed using GitHub Pages / Netlify / Vercel._
+> _Deployed using GitHub Pages / Netlify ._
 
 ---
 
