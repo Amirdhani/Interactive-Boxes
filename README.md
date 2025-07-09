@@ -8,7 +8,7 @@ Users can select from multiple unit options, view dynamic pricing, and customize
 
 ### 🔗 Live Demo
 
-👉 [Click here to view the live demo]([https://your-app-name.netlify.app](https://interactive3boxes.netlify.app/))  
+👉 [Click here to view the live demo:[([https://your-app-name.netlify.app](https://interactive3boxes.netlify.app/))  
 > _Deployed using Netlify._
 
 ---
